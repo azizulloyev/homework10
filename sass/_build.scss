@@ -1,0 +1,40 @@
+.build{
+    max-width: 1240px;
+    height: 745px;
+    background-color: #014E56;
+    padding: 100px;
+}
+.build_inner{
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+    text-align: center;
+}
+.build_text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.build_item{
+    color: #FFF;
+    text-align: center;
+    font-family: Livvic;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 166.667% */
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.build_about{
+    h1{
+        color: #FFF;
+    text-align: center;
+    font-family: Livvic;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 100% */
+    margin-bottom: 55px;
+    }
+}

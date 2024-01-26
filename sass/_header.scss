@@ -1,0 +1,42 @@
+header{
+    height: 700px;
+    max-width: 1240px;
+    background-color: #014E56;
+}
+.header_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head_list{
+    display: flex;
+    justify-content: space-between;
+}
+.header_item{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px; 
+    margin-right: 50px;
+    margin-top: 43px;
+}
+.head_btn{
+    width: 153px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    background-color: #014E56;
+    border: 2px solid #FFF;
+    text-align: center;
+    color: white;
+    margin-top: 41px;
+}
+.head_img{
+    margin-top: 43px;
+    margin-left: 30px;
+}
+header{
+    background-image: url(../img/Combined\ Shape\ Copy\ \(1\).svg);
+background-repeat: no-repeat;
+background-position: bottom right;
+}

@@ -1,0 +1,36 @@
+.center{
+    max-width: 1240px;
+    height: 648px;
+    background: #012F34;
+}
+.center_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cr_text{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px; 
+    width: 445px;
+    margin-left: 165px;
+    margin-top: 163px;
+}
+.center_pic{
+    margin-top: 163px;
+    h3{
+        color: #F67E7E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; 
+    }
+    h4{
+        color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; 
+    }
+}

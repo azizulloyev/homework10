@@ -1,0 +1,26 @@
+.hero{
+    margin-top: 260px;
+    margin-left: 100px;
+}
+.hero_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hero_item1{
+    color: #FFF;
+font-family: Livvic;
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: 100px; /* 100% */
+}
+.hero_item2{
+    color: #FFF;
+font-family: Livvic;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px; /* 155.556% */
+margin-right: 100px;
+}
